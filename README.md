@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/harshlad01">
-    <img src="https://shields.io/badge/kaggle-blue" alt="Kaggle Badge"/>
+    <img src="https://shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
   </a>
 </div>
 - 👋 Hi there, I’m @Harsh-L or Harsh Lad

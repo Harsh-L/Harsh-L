@@ -6,7 +6,7 @@
 - <a href= "https://www.linkedin.com/in/harsh-lad"><img align="left" alt="Harsh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/master/assets/linkedin.svg">
   </a>
 
-[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-L&count_private=true&show_icons=true&theme=radical&hide_rank=false)]()
+[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-L&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Harsh-L)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-L)]()
 <!---

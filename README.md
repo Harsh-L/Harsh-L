@@ -5,9 +5,9 @@
 - 🏢 [LinkedIn](https://www.linkedin.com/in/harsh-lad)
 
 
-[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-L&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Harsh-L/github-readme-stats)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-L&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-L)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-L)
 <!---
 Harsh-L/Harsh-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

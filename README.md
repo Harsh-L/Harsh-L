@@ -1,11 +1,11 @@
-- <div id="badges">
+  <!--<div>
   <a href="https://www.linkedin.com/in/harsh-lad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/harshlad01">
     <img src="https://shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
   </a>
-</div>
+  </div>-->
 - 👋 Hi there, I’m @Harsh-L or Harsh Lad
 - 👀 I love math, programing, data science, and books
 - 🌱 I’m addicted to learning and growing everyday

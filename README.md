@@ -7,7 +7,7 @@
   </a>
   </div>-->
 - 👋 Hi there, I’m @Harsh-L or Harsh Lad
-- 👀 I love math, programing, data science, books and a cup of coffee
+- 👀 I love math, programing, data science, books and a cup of coffee :coffee:
 - 🌱 I’m addicted to learning and growing everyday
 - 📚 I’m currently deep diving in the sea of machine learning
 - 📫 How to reach me :

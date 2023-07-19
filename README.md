@@ -9,7 +9,7 @@
 - 👋 Hi there, I’m @Harsh-L or Harsh Lad
 - 👀 I love math, programing, data science, books and a cup of coffee :coffee:
 - 🌱 I’m addicted to learning and growing everyday
-- 📚 I’m currently deep diving in the sea of machine learning
+- 📚 I’m currently deep diving in the sea of machine learning and data science
 - 📫 How to reach me :
 - 🏢 [LinkedIn](https://www.linkedin.com/in/harsh-lad)
 <a href= "https://www.linkedin.com/in/harsh-lad">

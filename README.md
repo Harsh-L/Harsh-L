@@ -1,24 +1,24 @@
-  <!--<div>
-  <a href="https://www.linkedin.com/in/harsh-lad">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/harshlad01">
-    <img src="https://shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
-  </a>
-  </div>-->
-- 👋 Hi there, I’m @Harsh-L or Harsh Lad
-- 👀 I love math, programing, data science, books and a cup of coffee :coffee:
-- 🌱 I’m addicted to learning and growing everyday
-- 📚 I’m currently deep diving in the sea of machine learning and data science
-- 📫 How to reach me :
-- 🏢 [LinkedIn](https://www.linkedin.com/in/harsh-lad)
-<a href= "https://www.linkedin.com/in/harsh-lad">
-  </a> 
+Hi, I'm Harsh Lad
 
-[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-L&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Harsh-L)
+Dynamics 365 Business Central Techno-Functional Consultant · Microsoft Certified (MB-820)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-L)](https://github.com/Harsh-L/github-readme-stats)
-<!---
-Harsh-L/Harsh-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work on both sides of Business Central implementations: understanding how a business runs, and building what Business Central doesn't do out of the box.
+
+What I work on
+Implementations: Finance, Inventory, Sales, Purchase and Subscription Billing, from discovery through go-live
+AL development: extensions, reports and posting customizations
+Integrations: SharePoint, Microsoft Graph API, Teams, CRM and third-party sales platforms
+Pre-sales: discovery, demos and estimation
+
+Most of my professional work lives in private client repositories under NDA, so it doesn't appear here.
+
+Currently learning
+
+Quantum computing with IBM Qiskit. My notes and experiments will be published here as I go.
+
+Tools
+AL · Dynamics 365 Business Central · Microsoft Graph API · SharePoint · Azure · Python · Git
+
+Connect <br>
+[LinkedIn](https://www.linkedin.com/in/harsh-lad)
+<a href= "https://www.linkedin.com/in/harsh-lad"></a>

@@ -20,5 +20,6 @@ Tools
 AL · Dynamics 365 Business Central · Microsoft Graph API · SharePoint · Azure · Python · Git
 
 Connect <br>
-[LinkedIn](https://www.linkedin.com/in/harsh-lad)
-<a href= "https://www.linkedin.com/in/harsh-lad"></a>
+[LinkedIn](https://www.linkedin.com/in/harsh-lad) <br><br>
+[Portfolio](https://harsh-lad.pages.dev/)
+
